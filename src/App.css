@@ -344,6 +344,27 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin: 0 auto 15px auto;
 }
 
+/******************************** work experience ****************/
+.work-experience{
+  padding: 0 0 50px 0;
+  position: relative;
+  text-align: center;
+}
+.work-experience h1 {
+  font-size: 45px;
+	font-weight: 700;
+}
+
+.work-experience ul {
+  color: #B8B8B8;
+  font-size: 18px;
+  letter-spacing: 0.8px;
+  line-height: 1.5em;
+  margin: 14px auto 30px auto;
+  text-align: center;
+  width: 56%;
+  list-style-type: none;
+}
 
 /************ Projects Css ************/
 .project {
